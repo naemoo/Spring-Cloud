@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: summarizationService
+server:
+  port: 9090
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+    fetch-registry: true
+    register-with-eureka: true
+ribbon:
+  eureka:
+    enabled: true
