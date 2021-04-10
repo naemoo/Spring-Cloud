@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/API_GateWay/API_GateWay.iml" filepath="$PROJECT_DIR$/API_GateWay/API_GateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configServer/configServer.iml" filepath="$PROJECT_DIR$/configServer/configServer.iml" />
     </modules>
   </component>
 </project>
